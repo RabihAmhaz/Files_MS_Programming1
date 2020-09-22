@@ -1,0 +1,2414 @@
+{
+	"strategies": [{
+		"strategyId": 2,
+		"strategyTitle": "Grants Management Consolidation",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "In FY16 OPE IDC has transitioned their effort from consolidation of the annual performance reporting applications to upgrading the applications to a COTS solution and migrating the applications to a cloud data center. Due to transition costs associated with these initiatives, OPE does not expect to see any cost savings/avoidances in FY16, but should begin seeing cost savings/avoidances in FY17 and significant cost savings/avoidances beyond FY17 as the applications are migrated and upgraded.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000076"],
+		"fy2012": {
+			"amount": 4.118,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 1.746,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 4.507,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.111,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 7,
+		"strategyTitle": "Human Resources Management (Business Systems) Kronos T&A",
+		"decisionDate": "10/01/2012",
+		"ombInitiative": "Commodity IT",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000002015"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.060,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 8,
+		"strategyTitle": "Information Collection Request Review Approval System (ICRAS) Web Hosting Infrastructure Management",
+		"decisionDate": "10/01/2012",
+		"ombInitiative": "Commodity IT",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000006022"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.150,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 1,
+		"strategyTitle": "Web Platform Consolidation",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to invest savings back into the common web platform.  Current project is to reduce CMS’s from 3 to 1 by September 30, 2019.  Cost reduction will be calculated then in terms of hosting, licensing, O & M and support staff.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001018"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.030,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 5,
+		"strategyTitle": "Federal Data Center Consolidation Initiative (FDCCI)",
+		"decisionDate": "02/26/2010",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "The Department intends to invest savings and cost avoidance realized from the FDCCI and consolidation into common enabling services.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.247,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.235,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.235,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.235,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.308,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.527,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 3,
+		"strategyTitle": "Enterprise License Use, Consolidation and Management",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "Software Licensing (M-16-12): As an initial step to optimizing the acquisition to software licenses, ED has consolidated all software licensing related investments into one non-major IT investment. The consolidation will aid in the identification of any duplication in software acquisition. As a next step, as the term of the licenses expire ED will evaluate the suitability of participating in the government-wide enterprise software licenses and government-wide blanket purchase agreements as appropriate to acquire replacement software licenses.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.030,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.0127,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 4,
+		"strategyTitle": "Infrastructure Optimization",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings and avoidance to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001020", "018-000007901"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.244,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.424,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 1.939,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 1.734,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.189,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 6,
+		"strategyTitle": "Education Resources Information Center (ERIC) Web to the Cloud",
+		"decisionDate": "09/30/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to invest savings back into the new, combined Knowledge Utilization investment.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001031"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 9,
+		"strategyTitle": "OneDrive Migration",
+		"decisionDate": "09/26/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.498,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 10,
+		"strategyTitle": "Email/Office 365",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.1820,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.4240,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.9280,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 1.286,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.512,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.203,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 11,
+		"strategyTitle": "CPSS II - Contract Writing System Replacement Project",
+		"decisionDate": "08/31/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "OCIO intends to reinvest the cost savings and avoidance in the upgrade of the legacy CWS Comprizon product and supporting infrastructure.  Since Comprizon was intended to be retired, no investments were made in maintenance of the platform which now must be upgraded in order to also upgrade the application and remain in compliance with statutory acquisition and FISMA regulations.  Additional cost savings have been reinvested in the Oracle Financials R12 Migration project.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001070", "018-000001024"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.400,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 12,
+		"strategyTitle": "FSSI Mobile",
+		"decisionDate": "01/15/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.0563,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.385,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.294,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.0901,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 13,
+		"strategyTitle": "R12 Upgrade",
+		"decisionDate": "08/01/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Cost avoided will be available for other IT initiatives.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001024"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 14.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 10.000,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 14,
+		"strategyTitle": "Annual Disaster Recovery Field Testing",
+		"decisionDate": "03/02/2015",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Cost savings will be available for other undertakings.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.012,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.012,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0.012,
+			"netOrGross": "Gross"
+		},
+		"fy2018": {
+			"amount": 0.012,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.012,
+			"netOrGross": "Gross"
+		}
+	},{
+		"strategyId": 15,
+		"strategyTitle": "FSA Software License Consolidation and Management",
+		"decisionDate": "03/20/2017",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "Funds made available from this investment have supported several key initiatives that required additional budget amounts.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000008005"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.6709,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 16,
+		"strategyTitle": "DHS Shared Cybersecurity Services",
+		"decisionDate": "01/01/2012",
+		"ombInitiative": "Other",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.404,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.404,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.404,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.404,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.404,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 1.6639,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 1.6639,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 17,
+		"strategyTitle": "DOJ Cyber Security Assessment and Management",
+		"decisionDate": "09/01/2015",
+		"ombInitiative": "Other",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.561,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.561,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.561,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 18,
+		"strategyTitle": "DHS Continuous Diagnostics and Mitigation",
+		"decisionDate": "09/01/2014",
+		"ombInitiative": "Other",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.418,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.5455,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.3828,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.3828,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 19,
+		"strategyTitle": "Data Loss Prevention",
+		"decisionDate": "10/21/2019",
+		"ombInitiative": "Other",
+                "useOfSavingsAvoidance": "The Department intends to reinvest cost savings and avoidance to further enhance protections for Department Information Technology, Infrastructure, Systems and Data. In addition to improving the efficiency and effectiveness of IT service delivery.",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.0194,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.1472,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.1472,
+			"netOrGross": "Net"
+                },
+		"fy2019": {
+			"amount": 0.0254,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 20,
+		"strategyTitle": "IT System Assessment",
+		"decisionDate": "10/15/2018",
+		"ombInitiative": "Other",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.005,
+			"netOrGross": "Net"
+		}
+
+	},{
+		"strategyId": 21,
+		"strategyTitle": "Security Spending",
+		"decisionDate": "05/01/2018",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Funds made available from this investment have supported the Department’s hosting transition from EDUCATE to PIVOT.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000000165"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 3.000,
+			"netOrGross": "Net"
+		}
+
+	},{
+		"strategyId": 22,
+		"strategyTitle": "EDCAPS Support Services Contract Recompete Delay",
+		"decisionDate": "04/30/2018",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Cost avoided will be used to fund the new task order for another year.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001024", "018-000001040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 1.500,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 6.100,
+			"netOrGross": "Net"
+		}
+
+	},{
+		"strategyId": 23,
+		"strategyTitle": "SharePoint Training",
+		"decisionDate": "01/31/2015",
+		"ombInitiative": "Other",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000000061"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.0718,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.165,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.130,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+
+	},{
+		"strategyId": 24,
+		"strategyTitle": "SharePoint Development Services",
+		"decisionDate": "01/31/2015",
+		"ombInitiative": "Other",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000000061"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.4296,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 1.3372,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 1.1523,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+
+	},{
+		"strategyId": 25,
+		"strategyTitle": "Two Factor Authentication",
+		"decisionDate": "01/31/2017",
+		"ombInitiative": "Other",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000000090"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.350,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.350,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.350,
+			"netOrGross": "Net"
+		}
+
+
+	},{
+		"strategyId": 26,
+		"strategyTitle": "Cancellation of CPSS CLM",
+		"decisionDate": "01/31/2017",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Freed up funds for other Department priorities.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001070"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 9.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+
+		}
+
+
+	},{
+		"strategyId": 27,
+		"strategyTitle": "Technology Business Management",
+		"decisionDate": "06/29/2018",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Use of a consultant that will help the Department with overall TBMS project management, security management and communications management and it will enhance quality of delivery and timely implementation.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000000185"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.250,
+			"netOrGross": "Net"
+		}
+
+
+	},{
+		"strategyId": 28,
+		"strategyTitle": "Multiple On-Line Application System (OLAS)",
+		"decisionDate": "12/06/2016",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "The savings from this investment will be reinvested into other initiatives by the Department that will enhance its IT portfolio.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000115"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.183,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.154,
+			"netOrGross": "Gross"
+		}
+	},{
+		"strategyId": 29,
+		"strategyTitle": "Retirement of legacy IBM hardware",
+		"decisionDate": "11/17/2018",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The money was available for other Department initiatives.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 2.291,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 30,
+		"strategyTitle": "EDUCATE Continuing Services Phase 2 (ECS2)",
+		"decisionDate": "01/25/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "The costs avoided will be applied towards the services provided via the PIVOT contracts.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 7.024,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 31,
+		"strategyTitle": "FMS Contract Recompete",
+		"decisionDate": "12/01/2018",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "To support other FSA initiatives.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001060", "00-45-02-06-01-00"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 2.3841,
+			"netOrGross": "Net"
+		}, 
+                "fy2020": {
+			"amount": 2.592288,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 32,
+		"strategyTitle": "Next Generation Data Center CLIN Rate Reduction",
+		"decisionDate": "04/22/2019",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "To support unplanned initiatives.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000000162"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 19.0919,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 33,
+		"strategyTitle": "Next Generation Data Center CLIN Volume Reduction",
+		"decisionDate": "04/22/2019",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "To support unplanned initiatives.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000162"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 5.155,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 34,
+		"strategyTitle": "Enterprise Intranet (connectED) Contract Support Savings",
+		"decisionDate": "05/01/2018",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest the cost savings to procure additional testing and content management support for the Enterprise Intranet for the high priority SharePoint technology upgrade ($75k), and has reinvested the remaining $50k into the OCIO EDUCATE and PIVOT contracts.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000002040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.125,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.075,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 35,
+		"strategyTitle": "Decommissioning of Intranet Peersynch software",
+		"decisionDate": "10/01/2019",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "The Department has reduced the Enterprise Intranet investment's future funding requests in light of this cost savings.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000002040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.0005,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000515,
+			"netOrGross": "Net"
+		}
+	},{      
+		"strategyId": 36,
+		"strategyTitle": "connectED Webmaster/Contributor Training",
+		"decisionDate": "01/01/2012",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department utilizes the cost avoidance by avoiding the need for POCs to acquire outside training for the skills required to maintain their intranet sites, therefore reducing the Department's overall training spending.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000002040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.180,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.185,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 37,
+		"strategyTitle": "connectED POC Intranet Site Template and Support",
+		"decisionDate": "09/01/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department utilizes the cost avoidance by significantly reducing or nearly eliminating the overall contract spending for the Department's POC intranet sites.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000002040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 1.600,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 1.650,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 38,
+		"strategyTitle": "Human Resources Management (Business Systems) Kronos T&A - WebTA",
+		"decisionDate": "10/01/2012",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The FPPS Investment continues to see cost avoidance through the FY12 implementation of WebTA.  Capturing time and attendance data at initial point of entry via employee rather than relying on timekeepers for manual data entry, reduced the exposure to possible sensitive PII or personnel data to timekeepers in FPPS.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000000073", "00-80-02-07-02-00"],
+		"fy2012": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.5249,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 39,
+		"strategyTitle": "Common Originations and Disbursement contract recompete (TIVOD)",
+		"decisionDate": "05/13/2015",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "To fund other unplanned or underfunded FSA initiatives.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000003203"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 11.646,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 4.709,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 21.657,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 12.334,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 40,
+		"strategyTitle": "PIVOT-M",
+		"decisionDate": "03/01/2019",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to keep the current cost avoidance model to actively scrub the mobile lines during the mobile chargeback exercises.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000194"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 1.600,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 1.500,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 41,
+		"strategyTitle": "PIVOT-H",
+		"decisionDate": "01/01/2019",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Leveraging internal storage support will enable the Department to focus on closing the hosting and storage gaps exposed in FY18/FY19.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000192"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 3.700,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 1.500,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 42,
+		"strategyTitle": "PIVOT-I",
+		"decisionDate": "03/01/2019",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department will use the costs savings/avoidance to help reduce the carry-over costs from FY19 to FY20.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000193"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.2705,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.1457,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 43,
+		"strategyTitle": "PIVOT-P",
+		"decisionDate": "06/01/2019",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Continued reduction in overall devices and includes per page click overage analysis to determine the potential over usage in specific areas--adjust the printer allocation per sqft.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000198"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 2.700,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 1.300,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 44,
+		"strategyTitle": "PIVOT-O",
+		"decisionDate": "04/01/2019",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "OY1 Reduction in force post transition deobligated/saved $700K",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000000197"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 6.300,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 5.600,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 45,
+		"strategyTitle": "Non-PIVOT",
+		"decisionDate": "03/01/2019",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Improved Microsoft EA license negotiations significantly reduced required need, i.e. no international calling features--saved $1.3mm. Continued examining the services provided with other Non-PIVOT services, especially SaaS platforms.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000193"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 7.500,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 4.500,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 46,
+		"strategyTitle": "ECS2",
+		"decisionDate": "10/01/2018",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department was able to reduce the carry-over costs to FY20 by negotiating better rates for services, as well as leveraging similar services from vendors currently support the PIVOT environment.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 25.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 18.000,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 47,
+		"strategyTitle": "ECS3",
+		"decisionDate": "12/01/2018",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department was able to reduce the carry-over costs to FY20 by negotiating better rates for services, as well as leveraging similar services from vendors currently support the PIVOT environment.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 15.300,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 3.300,
+			"netOrGross": "Net"
+		}
+
+	},{      
+		"strategyId": 48,
+		"strategyTitle": "PIVOT-N",
+		"decisionDate": "06/01/2019",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Anticipated Savings and Cost Avoidance with delay of Customer Site Support, and various tasks within Tasks 3, 4, and 5. Focus on transparent Transition-In support to strengthen the Department's recent modernization.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000196"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 5.112,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 2.500,
+			"netOrGross": "Net"
+		}
+
+        },{             
+		"strategyId": 54,
+		"strategyTitle": "OpenSC usage in the solution for G5 application's e-signature functionality",
+		"decisionDate": "10/28/2019",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "It will be used for other initiatives",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-999991341"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.0515,
+			"netOrGross": "Net"
+		}
+
+        },{       
+		"strategyId": 55,
+		"strategyTitle": "Enterprise Business Collaboration (EBC) O&M Recompete",
+		"decisionDate": "05/07/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "To support other unfunded initiatives",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.838,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.812414,
+			"netOrGross": "Net"
+		}
+
+        },{                   
+		"strategyTitle": "Mobile Device Upgrade",
+		"decisionDate": "09/15/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "The cost avoidance was planned in advance and therefore funds were not requested due to the strategy chosen.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.100,
+			"netOrGross": "Gross"
+		}
+ },{                   
+		"strategyTitle": "DHS Continuous Diagnostics and Mitigation",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs of procuring and implementing CDM capabilities by participating in DHS’ CDM Program.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.163675,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "Cybersecurity Workforce Development",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs associated with expanding and enhancing the Department's Cybersecurity Training Program by deferring these activities to the next FY.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.338943,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "Advanced Malware Detection and Analysis Capability",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs associated with design and implementation of an advanced malware detection and analysis capability by deferring these activities to the next FY.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 1.400,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "Cyber Hunt Capability",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs associated with design and implementation of a Cyber Hunt Capability by deferring these activities to the next FY.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 2.800,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "Fraud Detection",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs associated with establishing Fraud Detection Capability to monitor all ED financial systems for potential fraud issues by deferring these activities to the next FY.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 1.305,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "ISCM Program Support",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs associated with establishing ISCM program, ED ISCM policies, processes, and procedures by deferring these activities to the next FY.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.22785,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "Security Engineering and Architecture Support",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs associated with security engineering and architecture support to OCIO for the evaluation, planning, design, testing, and implementation of security controls within ED IT systems and for enterprise-level security capabilities by deferring these services to the next FY.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.741129,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "Shared Services Transition Out",
+		"decisionDate": "12/13/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Avoided costs associated with Shared Services contact transition out by deferring these transition out activities to the next FY.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.005714,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "Enterprise PMO and Project Services",
+		"decisionDate": "06/30/2019",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Cost savings by consolidating Pivot-O program oversight function with ePMO to increase scope to department wide IT Governance at no additional cost",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 1.600,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+},{                   
+		"strategyTitle": "EA Repository",
+		"decisionDate": "06/30/2018",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Suspended payment to Software AG until they get FedRamp certified, saving us 6 months of subscription costs (no cost extention).",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2018": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2019": {
+			"amount": 0.125,
+			"netOrGross": "Net"
+                },
+		"fy2020": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}]
+}
