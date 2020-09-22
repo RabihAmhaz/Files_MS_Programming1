@@ -1,0 +1,19 @@
+{
+	"students":[
+		{
+		"stud_name":"Samy",
+		"email":"samy@radev.com",
+		"specility":"neuroscience"
+		},
+		{
+		"stud_name":"Razan",
+		"email":"razan@radev.com",
+		"speciality":"sociology"
+		},
+		{
+		"stud_name":"Mustafa",
+		"email":"mustafa@radev.com",
+		"speciality":"consulting"
+		}
+	]
+}
